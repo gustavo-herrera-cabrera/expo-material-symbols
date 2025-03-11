@@ -30,6 +30,14 @@ These previously mentioned axes work by modifying a specific CSS property in tex
 
 ## Installation
 
+First, install `react-native-svg` with expo install.
+
+```bash
+npx expo install react-native-svg
+```
+
+Then, install `expo-material-symbols`.
+
 ```bash
 npx yarn install expo-material-symbols
 ```

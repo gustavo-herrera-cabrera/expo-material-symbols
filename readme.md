@@ -8,7 +8,7 @@ This library will require an internet connection to first render the icons. Afte
 
 ## About
 
-This package allows you to place Google's Material Symbols in your Expo project. These icons support all variants (`rounded`, `sharp` and `outlined`) and the four axes provided by Google (`fill`, `weight`, `grade` and `optical size`). You can read more about these axes in the [official guide for Material Symbols.](https://developers.google.com/fonts/docs/material_symbols#what_are_material_symbols).
+This package allows you to place Google's Material Symbols in your Expo project. These icons support all variants (`rounded`, `sharp` and `outlined`) and the four axes provided by Google (`fill`, `weight`, `grade` and `optical size`). You can read more about these axes in the [official guide for Material Symbols](https://developers.google.com/fonts/docs/material_symbols#what_are_material_symbols).
 
 ## How does it work?
 

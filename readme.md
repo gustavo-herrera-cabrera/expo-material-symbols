@@ -64,7 +64,7 @@ const MyComponent = () => {
 | `fill`        | `boolean` | `false`                 | Icon fill                                                                                                                  |
 | `weight`      | `number`  | `400`                   | Icon weight (`100`, `200`, `300`, `400`, `500`, `600`, `700`)                                                              |
 | `grade`       | `number`  | `0`                     | Icon grade (`-25`, `0`, `200`)                                                                                             |
-| `opticalSize` | `number`  | `24`                    | Icon optical size (`20`, `24`, `49`, `48`)                                                                                 |
+| `opticalSize` | `number`  | `24`                    | Icon optical size (`20`, `24`, `40`, `48`)                                                                                 |
 | `color`       | `string`  | `black`                 | Icon color                                                                                                                 |
 
 Also, `MaterialSymbol` extends [`SvgUri`](https://github.com/software-mansion/react-native-svg/blob/main/USAGE.md#use-with-content-loaded-from-uri) from `react-native-svg` so you can use all of its props.
